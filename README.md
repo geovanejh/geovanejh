@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Eu sou Geovane, <strong> desenvolvedor web </strong> e estudante de Análise e Desenvolvimento de Sistemas.
+  Olá! Eu sou Geovane, estudante de Análise e Desenvolvimento de Sistemas e<strong> desenvolvedor web </strong>.
 </p>
 
 <p align="left">
