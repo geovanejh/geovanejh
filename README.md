@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- ⚙ <strong>HTML, CSS, JavaScript/Node.js, ReactJS e Next.js!</strong>
+ ⚙ <strong>HTML, CSS/Tailwind CSS, JavaScript/Node.js, ReactJS e Next.js!</strong>
 </p>
 
 <p align="left">
