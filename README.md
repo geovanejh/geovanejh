@@ -4,11 +4,11 @@
   Olá! Eu sou Geovane, estudante de Análise e Desenvolvimento de Sistemas e<strong> desenvolvedor web </strong>.
 </p>
 
-<p> Acesse meu portfólio clicando <a href="https://meu-portfolio-lime.vercel.app/"> aqui</a>.
-
 <p align="left">
  ⚙ <strong>HTML, CSS/Tailwind CSS, JavaScript/Node.js, ReactJS e Next.js!</strong>
 </p>
+
+<p>  ✅Não deixe de conferir minha <a href="https://meu-portfolio-lime.vercel.app/"> página de apresentação</a>.
 
 <p align="left">
   💌 geovanehartmann@gmail.com 
