@@ -8,8 +8,6 @@
  ⚙ <strong>HTML, CSS, JS, ReactJS e Next.js!</strong>
 </p>
 
-<p>  ✅Não deixe de conferir minha <a href="https://meu-portfolio-lime.vercel.app/"> página de apresentação</a>.
-
 <p align="left">
   💌 geovanehartmann@gmail.com 
 </p>
